@@ -1,0 +1,84 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/Kodilla/Bartosz-Biernacki-kodilla-java-master" value="PREVIEW" />
+            <entry key="C:/Kodilla/Bartosz-Biernacki-kodilla-java-master/.gradle/3.5.1" value="PREVIEW" />
+            <entry key="C:/Kodilla/Bartosz-Biernacki-kodilla-java-master/kodilla-testing" value="PREVIEW" />
+            <entry key="C:/Kodilla/Development/Projects/kodilla-course/kodilla-stream" value="PREVIEW" />
+            <entry key="C:/Kodilla/kodilla-course/gradle/wrapper" value="PREVIEW" />
+            <entry key="D:/bartosz-biernacki-kodilla-java-master" value="PREVIEW" />
+            <entry key="D:/tasks-master" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/Kodilla/Bartosz-Biernacki-kodilla-java-master/src/main/java/com/kodilla" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <patterns />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
